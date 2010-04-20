@@ -74,4 +74,12 @@ sub create_logger {
 
 __POLOCKY__;
 
+=head1 NAME
 
+Polocky::WAF - Base Class for Web Application Framework
+
+=head1 AUTHOR
+
+polocky
+
+=cut

@@ -1,27 +1,6 @@
-This is Perl module Polocky-WAF.
+NAME
+    Polocky::WAF - Base Class for Web Application Framework
 
-INSTALLATION
+AUTHOR
+    polocky
 
-Polocky-WAF installation is straightforward. If your CPAN shell is set up,
-you should just be able to do
-
-    % cpan Polocky-WAF
-
-Download it, unpack it, then build it as per the usual:
-
-    % perl Makefile.PL
-    % make && make test
-
-Then install it:
-
-    % make install
-
-DOCUMENTATION
-
-Polocky-WAF documentation is available as in POD. So you can do:
-
-    % perldoc Polocky-WAF
-
-to read the documentation online with your favorite pager.
-
-Default Name
